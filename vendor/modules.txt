@@ -68,7 +68,7 @@ github.com/rancher/norman/types/convert
 github.com/rancher/norman/types/definition
 github.com/rancher/norman/types/slice
 github.com/rancher/norman/types/values
-# github.com/rancher/types v0.0.0-20200228230957-dfc415758d0d
+# github.com/rancher/types v0.0.0-20200228230957-dfc415758d0d => github.com/superseb/types v0.0.0-20200302155526-477843b9f172
 github.com/rancher/types/apis/management.cattle.io/v3
 github.com/rancher/types/apis/project.cattle.io/v3
 github.com/rancher/types/condition
