@@ -6187,7 +6187,7 @@
   },
   "v1.19": {
    "minRKEVersion": "1.2.0-rc0",
-   "minRancherVersion": "2.5.0-rc0"
+   "minRancherVersion": "2.5"
   },
   "v1.8": {
    "maxRKEVersion": "0.2.2",
